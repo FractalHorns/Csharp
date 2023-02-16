@@ -1,4 +1,4 @@
-﻿/*
+/*
 Console.Clear();
 int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
